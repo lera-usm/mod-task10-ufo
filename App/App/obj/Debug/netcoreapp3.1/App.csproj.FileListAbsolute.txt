@@ -1,0 +1,15 @@
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\bin\Debug\netcoreapp3.1\App.exe
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\bin\Debug\netcoreapp3.1\App.deps.json
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\bin\Debug\netcoreapp3.1\App.dll
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\bin\Debug\netcoreapp3.1\App.pdb
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\obj\Debug\netcoreapp3.1\App.csproj.AssemblyReference.cache
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\obj\Debug\netcoreapp3.1\App.Form1.resources
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\obj\Debug\netcoreapp3.1\App.csproj.GenerateResource.cache
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\obj\Debug\netcoreapp3.1\App.dll
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\obj\Debug\netcoreapp3.1\App.pdb
+C:\Users\lerau\OneDrive\Рабочий стол\мипс\mod-task10-ufo\App\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
